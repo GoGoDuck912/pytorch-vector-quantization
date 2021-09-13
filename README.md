@@ -1,7 +1,7 @@
 ## Pytorch Vector Quantization
-A vector quantization library based on pytorch. 
+A pytorch library of vector quantization methods. Vector Quantization has been successfully used by high-quality generation of image and audio generation.
 
-Implementated methods:
+Implemented methods:
 - [x] Vector Quantization
 - [x] Vector Quantization based on momentum moving average
 - [x] Vector Quantization based on gumbel-softmax trick
